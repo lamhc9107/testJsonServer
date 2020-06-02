@@ -13,9 +13,9 @@
     "lastUpdate":"2020-06-02T14:44:03+08:00"
   },
   "edison": {
-    "total":789,
+    "total":790,
     "online":700,
-    "offline":89,
+    "offline":90,
     "fixable":49,
     "unfixable":40,
     "octopus":{
