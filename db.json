@@ -1,5 +1,6 @@
 {
   "atom": {
+    "name":"atom",
     "total":1234,
     "online":1100,
     "offline":134,
@@ -13,6 +14,7 @@
     "lastUpdate":"2020-06-02T14:44:03+08:00"
   },
   "edison": {
+    "name":"edison",
     "total":790,
     "online":700,
     "offline":90,
