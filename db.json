@@ -2,8 +2,8 @@
   "atom": {
     "name":"Atom",
     "total":1234,
-    "online":1100,
-    "offline":134,
+    "online":1101,
+    "offline":133,
     "fixable":44,
     "unfixable":90,
     "octopus":{
